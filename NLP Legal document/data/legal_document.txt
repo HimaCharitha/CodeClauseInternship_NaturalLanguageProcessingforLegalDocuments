@@ -1,0 +1,40 @@
+Service Agreement
+
+Parties:
+This Agreement is made on 26-05-2024 between:
+
+Client: John Doe, owner of XYZ Bakery, located at 123 Main Street, Cityville, State, ZIP, hereinafter referred to as "Client,"
+Service Provider: Jane Smith, a freelance graphic designer, located at 456 Oak Avenue, Townsville, State, ZIP, hereinafter referred to as "Service Provider."
+Introduction:
+This Agreement outlines the terms under which Service Provider will provide graphic design services to Client, effective from 01-06-2024.
+
+Definitions:
+
+Services: Refers to graphic design services, including but not limited to logo design, marketing materials, and digital assets.
+Fee: Refers to the compensation for Services as outlined in Section 4.
+Main Provisions:
+
+Scope of Services:
+
+Service Provider agrees to provide graphic design services as requested by Client. Specific projects and deliverables will be outlined in separate work orders or project briefs.
+Compensation:
+
+Client agrees to pay Service Provider a fee of $X for each project, payable upon completion and acceptance of deliverables. Payment terms are Net 30 days from the invoice date.
+Ownership and Usage Rights:
+
+Upon full payment, Client shall own all rights, title, and interest in the final deliverables provided by Service Provider, excluding Service Provider's rights in pre-existing materials used in the creation of deliverables.
+Term and Termination:
+
+This Agreement shall commence on 01-06-2024 and continue until terminated by either party with 30 days' written notice. Termination shall not affect any accrued rights or obligations of the parties.
+Miscellaneous Provisions:
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law principles.
+Dispute Resolution: Any disputes arising under this Agreement shall be resolved through binding arbitration in Houston, conducted in accordance with the rules of the American Arbitration Association.
+Amendments: Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+Signatures:
+
+Signed and agreed by:
+
+Client: johndoe John Doe 26-05-2024
+
+Service Provider: janesmith Jane Smith 26-05-2024
