@@ -1,6 +1,8 @@
 # CodeClauseInternship_Natural-Language-Processing-for-Legal-Documents
 ## Legal Document Summarizer
 
+![Description of the GIF](https://github.com/HimaCharitha/CodeClauseInternship_NaturalLanguageProcessingforLegalDocuments/blob/main/nlp.gif)
+
 ## Aim
 Develop an AI system that can extract and summarize key legal information from complex legal documents.
 
